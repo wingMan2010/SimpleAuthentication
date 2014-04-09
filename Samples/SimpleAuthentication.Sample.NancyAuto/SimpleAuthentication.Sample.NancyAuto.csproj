@@ -115,10 +115,6 @@
       <Project>{2bafafc7-635a-40a4-9b25-df789c5976b7}</Project>
       <Name>Glimpse.SimpleAuthentication</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Code\Nancy.SimpleAuthentication\Nancy.SimpleAuthentication.csproj">
-      <Project>{94b8d947-6cad-42c3-b328-f369ce7bc6c0}</Project>
-      <Name>Nancy.SimpleAuthentication</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Code\SimpleAuthentication.Core\SimpleAuthentication.Core.csproj">
       <Project>{F94E2140-8262-4463-8054-0B1DCE8ABE03}</Project>
       <Name>SimpleAuthentication.Core</Name>

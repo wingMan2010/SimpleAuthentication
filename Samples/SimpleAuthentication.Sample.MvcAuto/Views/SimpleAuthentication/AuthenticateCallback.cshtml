@@ -4,7 +4,8 @@
     Layout = "/Views/Shared/_Layout.cshtml";
 }
 <div id="usercontainer">
-    <h1>AuthenticateCallback</h1>
+    <img src="~/Content/MM-logo-black1%20(1).png" />
+    <h1>Mao Marketing</h1>
 
     @if (Model.Exception != null)
     {
@@ -31,8 +32,4 @@
         <p>Gender: @Model.AuthenticatedClient.UserInformation.Gender.ToString()</p>
         <p>Referrer/RedirectTo Url: @(Model.ReturnUrl == null ? "-none/null-" : Model.ReturnUrl)</p>
     }
-
-
-
-    @Html.ActionLink("Lets go back home.", "Index", "Home")
 </div>
