@@ -1,0 +1,7 @@
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Debug\SimpleAuthentication.Core.dll
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Debug\SimpleAuthentication.Core.pdb
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Debug\RestSharp.dll
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Debug\RestSharp.xml
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\obj\Debug\SimpleAuthentication.Core.csprojResolveAssemblyReference.cache
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\obj\Debug\SimpleAuthentication.Core.dll
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\obj\Debug\SimpleAuthentication.Core.pdb

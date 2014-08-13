@@ -1,0 +1,14 @@
+﻿@{
+  Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div id="container">
+    <fieldset title="Login">
+        <legend>Select Providor:</legend>
+        <a href="@Url.RedirectToProvider("facebook")"><img src="/Content/facebook_32.png" alt="Login with your Facebook account."/></a>
+        <a href="@Url.RedirectToProvider("linkedin")">linkedin</a>
+        <a href="@Url.RedirectToProvider("google")"><img src="/Content/google_32.png" alt="Login with your Google account." /></a>
+        @Html.RedirectToProvider("twitter", "<img src=\"/Content/twitter_32.png\" alt=\"Login with your Twitter account.\"/>")
+    </fieldset>
+    
+</div>

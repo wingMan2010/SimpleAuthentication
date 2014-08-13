@@ -1,0 +1,6 @@
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Release\SimpleAuthentication.Core.dll
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Release\SimpleAuthentication.Core.pdb
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Release\RestSharp.dll
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\bin\Release\RestSharp.xml
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\obj\Release\SimpleAuthentication.Core.dll
+C:\Users\Al\Source\Repos\SimpleAuthentication\Code\SimpleAuthentication.Core\obj\Release\SimpleAuthentication.Core.pdb
